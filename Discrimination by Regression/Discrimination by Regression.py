@@ -1,8 +1,3 @@
-# ### Enes Sefa Ayar
-# ### 54467/ DASC521
-# ## Homework 3
-
-
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
